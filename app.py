@@ -13,7 +13,7 @@ import streamlit as st
 
 # Web Page Code
 st.title("HEALTH INSURANCE PREDICTION")
-img url = "file:///C:/Users/DELL/Downloads/family-banner.webp"
+img_url = "file:///C:/Users/DELL/Downloads/family-banner.webp"
 st.image(img_url)
 
 #LOAD DATA and ML MODEL PART
